@@ -1,0 +1,4 @@
+title: "Cuando los guardias fallan abriendo la puerta"
+description: "Post-mortem sobre fail-open vs fail-closed en un agente de software autónomo — Mimix (Coderhouse)"
+theme: jekyll-theme-cayman
+lang: es

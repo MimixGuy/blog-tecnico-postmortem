@@ -1,0 +1,13 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs / temp
+*.log
+*.tmp
+
+# Jekyll (GitHub Pages)
+_site/
+.jekyll-cache/
+.sass-cache/
